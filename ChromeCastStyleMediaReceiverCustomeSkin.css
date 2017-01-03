@@ -1,5 +1,6 @@
 .background {
-  background: center no-repeat url(https://raw.githubusercontent.com/icebergcwp1990/ChromeCastStyledMediaReceiver/master/background.png);
+  /*background: center no-repeat url(https://raw.githubusercontent.com/icebergcwp1990/ChromeCastStyledMediaReceiver/master/background.png);*/
+  background-color:rgb(0, 1, 1);
 }
 
 .logo {
